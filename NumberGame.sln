@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGame", "NumberGame.csproj", "{E3E849B7-23D1-4162-99DD-F379A3EE52AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3E849B7-23D1-4162-99DD-F379A3EE52AF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E3E849B7-23D1-4162-99DD-F379A3EE52AF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E3E849B7-23D1-4162-99DD-F379A3EE52AF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E3E849B7-23D1-4162-99DD-F379A3EE52AF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{E3E849B7-23D1-4162-99DD-F379A3EE52AF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E3E849B7-23D1-4162-99DD-F379A3EE52AF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{E3E849B7-23D1-4162-99DD-F379A3EE52AF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E3E849B7-23D1-4162-99DD-F379A3EE52AF}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
